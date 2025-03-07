@@ -7,3 +7,6 @@ Shradha Khapra.
 
 # Student
 Me and my friends.
+
+# create new file
+create new file for javaScript.
